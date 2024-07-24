@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Blitzz Shop Debug",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": ["--dart-define-from-file=dart-defines.json","-v"]
+        }
+    ]
+}

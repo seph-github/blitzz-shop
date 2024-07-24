@@ -1,0 +1,1 @@
+enum UserEnum { admin, client }
